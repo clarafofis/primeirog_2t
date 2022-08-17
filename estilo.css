@@ -6,11 +6,12 @@ h1 {
 }
 .caixa1{
   position: absolute;
-  color: lightblue;
+  background: lightblue;
+  color: blueviolet;
   width: 200px;
   height: 200px;
   right: 0;
-  top: 30%;
+  bottom: 0;
 }
 
 .caixa2 {
@@ -20,6 +21,7 @@ h1 {
   width: 200px;
   height: 200px;
   right: 205px;
+  bottom: 0;
 }
 
 .caixa3 {

@@ -5,6 +5,10 @@ body{
 h1 {
   text-align: center;
 }
+h2 {
+  text-align: center;
+  color: rgb(221, 10, 158);
+}
 .caixa1 {
    position: absolute;
    background: lightcoral;
@@ -43,7 +47,7 @@ li {
 }
 li a {
   display: block;
-  color: rgb(255, 255, 255);
+  color: rgb(187, 59, 138);
   padding: 14px 16px;
   text-align: center;
   text-decoration: none;

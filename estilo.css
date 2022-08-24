@@ -9,6 +9,10 @@ h2 {
   text-align: center;
   color: rgb(221, 10, 158);
 }
+
+h3 {
+  color: rgb(164, 66, 245);;
+}
 .caixa1 {
    position: absolute;
    background: lightcoral;
@@ -102,6 +106,7 @@ li a:hover {
   right: 0;
   z-index: 999;
 }
+
   
 
 

@@ -106,7 +106,11 @@ li a:hover {
   right: 0;
   z-index: 999;
 }
-
+.centroImg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
   
 
 
